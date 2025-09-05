@@ -25,13 +25,13 @@ It provides software developers with detailed information about components, inte
 ## 3. Screenshots / Wireframes
 
 ### User Table
-![User Table](interview-ui-spec/user-table.png)
+![User Table](user-table.png)
 
 ### New User Form
-![New User Form](interview-ui-spec/new-user-form.png)
+![New User Form](new-user-form.png)
 
 ### Top Bar Buttons
-![Top Bar Buttons](interview-ui-spec/top-bar-buttons.png)
+![Top Bar Buttons](top-bar-buttons.png)
 
 ---
 
