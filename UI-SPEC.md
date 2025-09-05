@@ -22,7 +22,20 @@ It provides software developers with detailed information about components, inte
 
 ---
 
-## 3. UI Components
+## 3. Screenshots / Wireframes
+
+### User Table
+![User Table](interview-ui-spec/user-table.png)
+
+### New User Form
+![New User Form](interview-ui-spec/new-user-form.png)
+
+### Top Bar Buttons
+![Top Bar Buttons](interview-ui-spec/top-bar-buttons.png)
+
+---
+
+## 4. UI Components
 
 | Component | Type | Description | Behavior |
 |-----------|------|-------------|----------|
@@ -40,7 +53,7 @@ It provides software developers with detailed information about components, inte
 
 ---
 
-## 4. Behavior and Interactions
+## 5. Behavior and Interactions
 
 1. **Table Interaction:**
    - Clicking a row populates the New User form with selected user’s data for editing
@@ -68,7 +81,7 @@ It provides software developers with detailed information about components, inte
 
 ---
 
-## 5. Notes
+## 6. Notes
 - Follow application-wide design system: colors, fonts, spacing
 - Responsive layout: form and table adjust for tablet and desktop
 - Accessibility:
@@ -78,6 +91,5 @@ It provides software developers with detailed information about components, inte
 
 ---
 
-## 6. References
-- Mockup image (provided by designer)
-- Design system guidelines: colors, typography, button styles
+## 7. References
+- Mockup images located in `interview-ui-spec/` folder
